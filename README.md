@@ -1,6 +1,6 @@
 # 历元研究笔记 · Research Notes
 
-历元智能投研「研究专栏」的方法论文章。**只讲研究方法和公开数据的历史统计，不涉及具体股票，不构成投资建议。**
+历元「研究专栏」的方法论文章。**只讲研究方法和公开数据的历史统计，不涉及具体股票，不构成投资建议。**
 
 文章同步发布于雪球「历元Antares」和微信公众号「历元智能投研」。
 
@@ -31,6 +31,6 @@
 
 ## 许可
 
-文章与配图采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)：可以转载、引用，请注明出处「历元智能投研」，不得用于商业用途。
+文章与配图采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)：可以转载、引用，请注明出处「历元」，不得用于商业用途。
 
 <sub>Not financial advice. 本仓库内容为研究方法讨论，作者不具备证券投资咨询资质。</sub>
